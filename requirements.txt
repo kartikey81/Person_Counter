@@ -16,8 +16,6 @@ streamlit
 mxnet
 gluoncv
 
-hashlib
-pathlib
 opencv-python-headless
 nltk
 Pillow

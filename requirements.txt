@@ -15,7 +15,7 @@ ipython
 streamlit
 mxnet
 gluoncv
-pylab
+
 hashlib
 pathlib
 opencv-python-headless

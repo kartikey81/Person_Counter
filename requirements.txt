@@ -15,9 +15,9 @@ ipython
 streamlit
 mxnet
 gluoncv
+https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
+torchvision==0.2.2
 
-torch-cpu
-torchvision-cpu
 opencv-python-headless
 nltk
 Pillow

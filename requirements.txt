@@ -16,8 +16,8 @@ streamlit
 mxnet
 gluoncv
 
-torch
-torchvision
+torch-cpu
+torchvision-cpu
 opencv-python-headless
 nltk
 Pillow

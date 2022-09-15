@@ -15,8 +15,12 @@ ipython
 streamlit
 mxnet
 gluoncv
-http://download.pytorch.org/whl/cpu/torch-1.9.1%2Bcpu-cp37-cp37m-win_amd64.whl
-torchvision
+https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu 
+torchvision==0.9.1+cpu
+fastai>=2.3.1
+ipywidgets
+voila
 
 opencv-python-headless
 nltk

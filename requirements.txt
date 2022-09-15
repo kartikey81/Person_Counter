@@ -5,7 +5,7 @@ MarkupSafe
 Werkzeug
 numpy
 scipy
-
+seaborn
 scikit-learn
 matplotlib
 pandas

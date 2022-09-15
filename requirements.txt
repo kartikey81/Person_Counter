@@ -17,7 +17,7 @@ mxnet
 gluoncv
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==1.11.0+cpu 
-torchvision==0.9.1+cpu
+torchvision==0.12.1+cpu
 
 
 opencv-python-headless
